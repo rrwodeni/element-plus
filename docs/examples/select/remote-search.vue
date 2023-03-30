@@ -76,7 +76,7 @@ const remoteMethod = (query: string) => {
     options.value = []
   }
 }
-
+console.log('value',value)
 const states = [
   'Alabama',
   'Alaska',
