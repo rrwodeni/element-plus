@@ -10,6 +10,7 @@
     </div>
     <div>
       <el-avatar> user </el-avatar>
+      <el-avatar> user </el-avatar>
     </div>
   </div>
 </template>
